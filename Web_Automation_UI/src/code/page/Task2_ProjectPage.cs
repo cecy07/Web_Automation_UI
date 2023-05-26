@@ -17,8 +17,8 @@ namespace Web_Automation_UI.src.code.page
         public Button modifyProjButton = new Button(By.CssSelector("button[aria-label=\"More project actions\"]:first-child"));
         public Button editProjButton = new Button(By.XPath("//div[contains(text(), 'Edit project')]"));
         public Button deleteProjButton = new Button(By.XPath("//div[contains(text(), 'Delete project')]"));
-        public Button deleteButton = new Button(By.XPath("//*[contains(@id, \":\")]/form/footer/div/button[2]"));
-        public Label checkName = new Label(By.XPath("//*[@id='projects_list']/li[last()]/div/div/a/span[2]"));
+        public Button deleteButton = new Button(By.XPath("//button[@type=\"submit\"]"));
+        public Label checkName = new Label(By.XPath("(//span[@class=\"FnFY2YlPR10DcnOkjvMMmA==\"])[last()]"));
 
         
         public void newProject(String name)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\14. Python\\Codes\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj": {}
+    "D:\\15. Github\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj": {}
   },
   "projects": {
-    "D:\\14. Python\\Codes\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj": {
+    "D:\\15. Github\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\14. Python\\Codes\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj",
+        "projectUniqueName": "D:\\15. Github\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj",
         "projectName": "Web_Automation_UI",
-        "projectPath": "D:\\14. Python\\Codes\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj",
+        "projectPath": "D:\\15. Github\\Web_Automation_UI\\Web_Automation_UI\\Web_Automation_UI.csproj",
         "packagesPath": "C:\\Users\\BDSL\\.nuget\\packages\\",
-        "outputPath": "D:\\14. Python\\Codes\\Web_Automation_UI\\Web_Automation_UI\\obj\\",
+        "outputPath": "D:\\15. Github\\Web_Automation_UI\\Web_Automation_UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BDSL\\AppData\\Roaming\\NuGet\\NuGet.Config",

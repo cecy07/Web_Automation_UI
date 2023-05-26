@@ -27,6 +27,7 @@ namespace Web_Automation_UI.src.code.test
             string name_project = "Test_1";
             projectPage.addProjButton.Click();
             projectPage.newProject(name_project);
+            
             Assert.AreEqual(name_project,projectPage.checkName.getText(),"ERROR: Project not created");
 
             //Modify project
