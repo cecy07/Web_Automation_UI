@@ -30,7 +30,7 @@ namespace Web_Automation_UI.src.code.session
         public void CloseBrowser()
         {
             instance = null;
-            browser.Quit();
+            //browser.Quit();
         }
         public IWebDriver GetBrowser()
         {
